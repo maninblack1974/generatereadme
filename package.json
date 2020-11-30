@@ -1,0 +1,24 @@
+{
+  "name": "generatereadme",
+  "version": "1.0.0",
+  "description": "This program will generate a ReadMe file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maninblack1974/generatereadme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maninblack1974/generatereadme/issues"
+  },
+  "homepage": "https://github.com/maninblack1974/generatereadme#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.3"
+  }
+}
